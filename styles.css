@@ -53,6 +53,12 @@ body {
         margin-top: 1rem;
         font-size: 16px;
     }
+    
+    footer {
+        text-align: center;
+        margin-top: 3rem;
+    }
+    
 }
 
 /* PC */
@@ -92,6 +98,11 @@ body {
         margin: auto;
         margin-top: 1.2rem;
         font-size: 16px;
+    }
+    
+    footer {
+        text-align: center;
+        margin-top: 5rem;
     }
 
 }
